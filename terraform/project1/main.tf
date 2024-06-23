@@ -19,7 +19,7 @@ terraform {
 
 provider "azurerm" {
 features {}
-subscription_id = "8cc22353-a906-4a10-80f7-2f15e3792a10"
+subscription_id = ""
 }
 ################################################## Configuring infrastructure ########################################################################
 
